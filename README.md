@@ -44,10 +44,11 @@ Notably, op_setting_3 — one of the three operational settings — carried zero
 **Visuals**
 
 Linear Regression: Predicted vs. Actual RUL — predictions flatten out and underestimate badly for engines with a lot of life left, and some predictions dip below zero (physically impossible).
+ ![Linear Regression: Predicted vs Actual](LR-TPM.png)
 
 Random Forest (clipped): Predicted vs. Actual RUL — predictions track the actual value far more tightly, especially in the failure-approach zone, with no negative predictions.
+ ![Random Forest: Predicted vs Actual](RF-TPM.png)
 
-(insert both scatter plot images here)
 
 **Honest Limitations**
 
@@ -57,4 +58,4 @@ Random Forest (clipped): Predicted vs. Actual RUL — predictions track the actu
 
 **How to Run**
 
-The full analysis was built in Google Colab: [link to notebook]
+The full analysis was built in Google Colab: ![link to notebook](https://colab.research.google.com/drive/10rzq_7rFnM4yY4Rcwl3ZS9gPZ85iS1gl#scrollTo=biy12Co5cpzo)
