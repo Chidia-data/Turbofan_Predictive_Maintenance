@@ -58,4 +58,4 @@ Random Forest (clipped): Predicted vs. Actual RUL — predictions track the actu
 
 **How to Run**
 
-The full analysis was built in Google Colab: [link to notebook](https://colab.research.google.com/drive/10rzq_7rFnM4yY4Rcwl3ZS9gPZ85iS1gl#scrollTo=biy12Co5cpzo)
+The full analysis was built in Google Colab: [link to notebook](https://colab.research.google.com/drive/10rzq_7rFnM4yY4Rcwl3ZS9gPZ85iS1gl?usp=sharing)
