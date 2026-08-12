@@ -10,7 +10,7 @@ This project builds a model that does exactly that for jet engines: given a snap
 
 **The Data**
 
-[NASA's CMAPSS Turbofan Engine Degradation dataset](url) (FD001 subset):
+[NASA's CMAPSS Turbofan Engine Degradation dataset](https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/) (FD001 subset):
 
 100 engines, each run from healthy to failure
 21 sensor readings + 3 operational settings recorded at every cycle
@@ -58,4 +58,4 @@ Random Forest (clipped): Predicted vs. Actual RUL — predictions track the actu
 
 **How to Run**
 
-The full analysis was built in Google Colab: ![link to notebook](https://colab.research.google.com/drive/10rzq_7rFnM4yY4Rcwl3ZS9gPZ85iS1gl#scrollTo=biy12Co5cpzo)
+The full analysis was built in Google Colab: [link to notebook](https://colab.research.google.com/drive/10rzq_7rFnM4yY4Rcwl3ZS9gPZ85iS1gl#scrollTo=biy12Co5cpzo)
